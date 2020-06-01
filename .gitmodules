@@ -1,3 +1,6 @@
 [submodule "zsh-autosuggestions"]
 	path = zsh-autosuggestions
 	url = https://github.com/zsh-users/zsh-autosuggestions
+[submodule "src/sug"]
+	path = src/sug
+	url = https://github.com/zsh-users/zsh-autosuggestions
