@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo 555
+mv ../myzsh/* ~/.oh-my-zsh/custom
